@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0672e425-d902-4e3c-a945-e8691f2f1869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/input" beforeDir="false" afterPath="$PROJECT_DIR$/day1/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/test" beforeDir="false" afterPath="$PROJECT_DIR$/day1/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day17/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day17/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day17/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day17/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day18/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day18/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day18/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day18/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day21/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22/p2.out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day22/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/part2-out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/test2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-day.ts" beforeDir="false" afterPath="$PROJECT_DIR$/new-day.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="rancher-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="21hRHQEgPiTg30YNIxzgTnxL6TC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Work\advent-of-code\AdventOfCode2021\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="C:\Work\advent-of-code\AdventOfCode2021\node_modules\typescript\lib" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0672e425-d902-4e3c-a945-e8691f2f1869" name="Changes" comment="" />
+      <created>1638391247743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638391247743</updated>
+      <workItem from="1638391249392" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1&#10;&#10;- Copied the structure from my AoC 2020 repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1&#10;&#10;- Copied the structure from my AoC 2020 repo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
