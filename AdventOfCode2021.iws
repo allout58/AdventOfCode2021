@@ -5,102 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0672e425-d902-4e3c-a945-e8691f2f1869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/test2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/day1/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/input" beforeDir="false" afterPath="$PROJECT_DIR$/day1/input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1/test" beforeDir="false" afterPath="$PROJECT_DIR$/day1/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day13/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day16/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day17/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day20/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day21/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day21/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day21/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day21/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/p2.out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day22/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day23/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day23/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day23/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day23/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/part2-out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day7/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day8/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/input" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/test2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-day.ts" beforeDir="false" afterPath="$PROJECT_DIR$/new-day.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode2021.iws" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2021.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638391247743</updated>
-      <workItem from="1638391249392" duration="1575000" />
+      <workItem from="1638391249392" duration="2808000" />
     </task>
+    <task id="LOCAL-00001" summary="Day 1&#10;&#10;- Copied the structure from my AoC 2020 repo">
+      <created>1638395376045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638395376045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
